@@ -1,5 +1,6 @@
 # AccountBook-iOS-App
-An app helps you keep track of everyday expenditure and you can check the weather on it as well!
+An app helps you keep track of everyday expenditure and you can check the weather on it as well. 
+
+You can also connect it with Facebook.
 
 
-Simply clone the repo and run. You can keep track of ur daily spending, check the weather and connect it with facebook!
